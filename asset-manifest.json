@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://meermustan.github.io/csb-rtdx1m/static/css/main.ce7d2e9c.chunk.css",
+    "main.js": "https://meermustan.github.io/csb-rtdx1m/static/js/main.e8c8370f.chunk.js",
+    "main.js.map": "https://meermustan.github.io/csb-rtdx1m/static/js/main.e8c8370f.chunk.js.map",
+    "runtime-main.js": "https://meermustan.github.io/csb-rtdx1m/static/js/runtime-main.3fae9a5b.js",
+    "runtime-main.js.map": "https://meermustan.github.io/csb-rtdx1m/static/js/runtime-main.3fae9a5b.js.map",
+    "static/js/2.743ed9a4.chunk.js": "https://meermustan.github.io/csb-rtdx1m/static/js/2.743ed9a4.chunk.js",
+    "static/js/2.743ed9a4.chunk.js.map": "https://meermustan.github.io/csb-rtdx1m/static/js/2.743ed9a4.chunk.js.map",
+    "index.html": "https://meermustan.github.io/csb-rtdx1m/index.html",
+    "static/css/main.ce7d2e9c.chunk.css.map": "https://meermustan.github.io/csb-rtdx1m/static/css/main.ce7d2e9c.chunk.css.map",
+    "static/js/2.743ed9a4.chunk.js.LICENSE.txt": "https://meermustan.github.io/csb-rtdx1m/static/js/2.743ed9a4.chunk.js.LICENSE.txt",
+    "static/media/business.bda58d92.png": "https://meermustan.github.io/csb-rtdx1m/static/media/business.bda58d92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fae9a5b.js",
+    "static/js/2.743ed9a4.chunk.js",
+    "static/css/main.ce7d2e9c.chunk.css",
+    "static/js/main.e8c8370f.chunk.js"
+  ]
+}
